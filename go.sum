@@ -1,0 +1,4 @@
+github.com/fuadop/sendchamp v0.0.0-20220430143900-ce34d4a020e6 h1:ij5yZedS43dStEnY4z+l/AtRG2FzLwyr43SoNpb+CSk=
+github.com/fuadop/sendchamp v0.0.0-20220430143900-ce34d4a020e6/go.mod h1:JMt+nH3hNoN2HOPa4f21cD4sUYa1UWft4Wy3VR0kMeo=
+github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
+github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
